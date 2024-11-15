@@ -16,7 +16,7 @@
 
 <h2>🌟 <strong>My Skills</strong></h2>
 <ul>
-  <li><strong>Programming</strong>: Python,SQL</li>
+  <li><strong>Programming</strong>: Python,SQL,Tableau</li>
   <li><strong>Libraries & Tools</strong>: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Tableau</li>
   <li><strong>Data Science Workflow</strong>: Data Wrangling, Feature Engineering</li>
   
