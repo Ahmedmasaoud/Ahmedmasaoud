@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm [Your Name]</h1>
+<h1>👋 Hi, I'm Ahmed Masoud</h1>
 <p>🎓 <strong>Data Scientist</strong> | 📊 <strong>Machine Learning & Data Visualization Enthusiast</strong></p>
 
 <p>Welcome to my GitHub profile! I specialize in transforming data into actionable insights and building impactful machine learning solutions.</p>
